@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(26, 197, 140);
-}
+    background-color: rgb(26, 197, 140); /*cor do fundo do site*/
+} 
 
-footer{
-    background-color: black;
+footer{ /*rodape*/
+    background-color: black; /*cor do f
     color: rgb(19, 21, 136);
     bottom: 0;
     position: fixed;
