@@ -3,8 +3,8 @@ body{
 } 
 
 footer{ /*rodape*/
-    background-color: black; /*cor do f
-    color: rgb(19, 21, 136);
+    background-color: black; /*cor do fundo do rodape*/
+    color: rgb(19, 21, 136); /*
     bottom: 0;
     position: fixed;
     width: 100%;
