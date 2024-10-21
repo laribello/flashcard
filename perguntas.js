@@ -1,0 +1,45 @@
+criarCartao{
+    'biologia'
+    'pergunta'
+    'resposta'
+}
+criarCartao{
+    'biologia'
+    'pergunta'
+    'resposta'
+}
+criarCartao{
+    'biologia'
+    'pergunta'
+    'resposta'
+}
+criarCartao{
+    'biologia'
+    'pergunta'
+    'resposta'
+}
+criarCartao{
+    'biologia'
+    'pergunta'
+    'resposta'
+}
+criarCartao{
+    'biologia'
+    'pergunta'
+    'resposta'
+}
+criarCartao{
+    'biologia'
+    'pergunta'
+    'resposta'
+}
+criarCartao{
+    'biologia'
+    'pergunta'
+    'resposta'
+}
+criarCartao{
+    'biologia'
+    'pergunta'
+    'resposta'
+}
